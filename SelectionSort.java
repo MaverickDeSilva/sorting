@@ -15,7 +15,6 @@ public class SelectionSort {
 		    for (int i = 0; i < n; i++) {
 		      arr[i] = scanner.nextInt();
 		    }
-
 		    // Perform selection sort
 		    selectionSort(arr);
 
