@@ -29,12 +29,6 @@ public class BubbleSort {
         System.out.println();
     }
 
-
-	
-	// Perform bubble sort
-   
-
-    // Print the sorted array
    
 // Function to perform bubble sort
 public static void bubbleSortMethod(int[] arr) {
